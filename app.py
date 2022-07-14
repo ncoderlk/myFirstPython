@@ -5,3 +5,6 @@ def hello():{
 };
 
 hello();
+
+MyName = input('Enter Your Name')
+print('Hello, '+MyName)
